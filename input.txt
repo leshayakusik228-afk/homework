@@ -1,0 +1,2 @@
+Go is awesome. Go is fast. Go is simple.
+Go makes programming fun. Programming is fun.
